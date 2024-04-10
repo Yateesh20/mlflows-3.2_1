@@ -1,0 +1,15 @@
+artifact_uri: /home/yateesh24/mlflows-3.2_1/mlruns/0/288c1e6da7e841b3aa82bc6e3518ff24/artifacts
+end_time: 1712737428199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 288c1e6da7e841b3aa82bc6e3518ff24
+run_name: bouncy-bear-992
+run_uuid: 288c1e6da7e841b3aa82bc6e3518ff24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712737351610
+status: 3
+tags: []
+user_id: yateesh24
